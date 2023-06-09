@@ -1,0 +1,51 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar
+{
+    background-color: #F0F8FF;
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.276)
+}
+.inside
+{
+    display: flex;
+    padding: 10px;
+    margin-left: 500px;
+}
+.logo img
+{
+    width: 109.64px;
+    height: 64px;
+}
+.link
+{
+    margin-top: 20px;
+    margin-left: -500px;
+}
+.number{
+    margin-top: -25px;
+    margin-left: 640px;
+}
+.link a
+{
+    text-decoration: none;
+    width: 53px;
+    height: 27px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #004F95;
+}
+.number h5
+{
+    width: 148px;
+    height: 27px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #004F95;
+    
+}
